@@ -3,6 +3,8 @@ This repository is a example for interspeech 2019 challenge work.
 
 # Dependencies
 Pytorhc v.1.0.0
+
+
 python 3.6
 
 # Usage
