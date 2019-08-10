@@ -11,3 +11,4 @@ python 3.6
 3. run svm.py to evaluate.
 
 # Result
+![](images/result.png?raw=true)
